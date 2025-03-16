@@ -1,5 +1,5 @@
 ---
-title: Claire's blog about Languages, Life and Other Topics
+title: Claire's blog
 ---
 
-Test test
+Test Test
